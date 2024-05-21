@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.song-play{
+  cursor: pointer;
+}
+
+.song-play:hover{
+  color:lawngreen;
+}
+
+.song-remove{
+  cursor: pointer;
+}
+
+.song-remove:hover{
+  color:red;
+}
